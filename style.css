@@ -1,0 +1,31 @@
+.container{
+    background-color:red;
+    width: 50%;
+    margin: auto;
+
+}
+div{
+    background-color:lightgreen;
+}
+h1{
+    text-align: center;
+}
+
+input,
+label{
+    display: block;
+}
+
+input{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+#check-number{
+    margin-top: 1rem;
+    margin: auto;
+    display: block;
+}
+:root{
+    background-color: rgb(181, 181, 18);
+}
